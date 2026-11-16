@@ -1,0 +1,17 @@
+# Local environments and editor metadata
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Data downloaded or supplied separately
+aapl.csv
+googl.csv
+msft.csv
+
+# Generated models and outputs
+models/
+*.pth
